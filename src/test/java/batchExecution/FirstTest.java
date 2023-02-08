@@ -1,7 +1,7 @@
 package batchExecution;
 
 import org.testng.annotations.Test;
-// batch
+// batch first
 public class FirstTest {
 
 	@Test
